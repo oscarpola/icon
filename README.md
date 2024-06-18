@@ -3,3 +3,4 @@ check.png <a href="https://www.flaticon.com/free-icons/correct" title="correct i
 crown.png <a href="https://www.flaticon.com/free-icons/crown" title="crown icons">Crown icons created by feen - Flaticon</a><br>
 music-note.png <a href="https://www.flaticon.com/free-icons/music-and-multimedia" title="music and multimedia icons">Music and multimedia icons created by paonkz - Flaticon</a><br>
 user.png <a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Freepik - Flaticon</a><br>
+check (1).png <a href="https://www.flaticon.com/free-icons/ui" title="ui icons">Ui icons created by Elite Art - Flaticon</a><br>
